@@ -1,1 +1,1 @@
-This is a repo for learning git
+Made some changes, deleted the old text!
